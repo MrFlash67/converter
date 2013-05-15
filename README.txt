@@ -1,0 +1,1 @@
+My unit converter, all modules are in this package or in the default Python install. Designed for 2.6.x, may work on 2.7.
